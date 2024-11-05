@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+section{
+    border: 1px solid ;
+    width: 40rem;
+    height: 300px;
+    text-align: center;
+}
+
+main{
+    border: 1px solid ;
+    width: 20rem;
+    /* display: inline-block; */
+}
+
+.buttons{
+    width: 3rem;
+}
